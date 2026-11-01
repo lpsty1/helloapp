@@ -9,7 +9,7 @@ internal static class Program
 
     private static void Greet()
     {
-        Console.WriteLine("hello");
+        Console.WriteLine("hello everyone");
     }
 
     private static void GreetWhite()
@@ -17,3 +17,4 @@ internal static class Program
         Console.WriteLine("hello white");
     }
 }
+
