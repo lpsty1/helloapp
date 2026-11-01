@@ -5,6 +5,8 @@ internal static class Program
     private static void Main()
     {
         Greet();
+        GreetWhite();
+        GreetBlack();
     }
 
     private static void Greet()
@@ -22,3 +24,4 @@ internal static class Program
         Console.WriteLine("hello black");
     }
 }
+
